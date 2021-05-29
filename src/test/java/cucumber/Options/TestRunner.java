@@ -20,7 +20,7 @@ glue ={"stepDefinations"}
  )
 public class TestRunner {
 
-	// tags= "@deleteplace"
+	
 	
 	
 }
