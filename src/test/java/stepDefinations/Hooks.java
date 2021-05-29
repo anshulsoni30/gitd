@@ -10,8 +10,7 @@ public class Hooks {
 	
 	public void BeforeScenario() throws IOException {
 		
-		//write code to get placeid
-		//execute this code  when place id is null
+		
 		
 		stepDefination sd=new stepDefination();
 		if(stepDefination.place_id==null) {
